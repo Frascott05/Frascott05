@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Frascott05
-- 👀 I’m interested in python programming and cybersecurity
-- 🌱 I’m currently learning pentesting
+- 👀 Python and Java developer.
+- Cybersecurity enjoyer
 - 📫 How to reach me: francesco2005scotti@gmail.com
 
 ## More info about me
