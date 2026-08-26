@@ -35,7 +35,7 @@ I am a **Cybersecurity Specialist**, **Ethical Hacker**, and **DFIR** at the **P
 #### ⚙️ Operating Systems & Kernel Internals
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali" />
   </a>
   <img src="https://img.shields.io/badge/Windows_Internals-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white" />
