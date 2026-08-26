@@ -18,10 +18,10 @@ I am a **Cybersecurity Specialist**, **Ethical Hacker**, and **DFIR** at the **P
 
 #### 🛡️ Offsec, DFIR & Core Security
 <p align="left">
-  <img src="https://img.shields.io/badge/Malware_Analysis-111111?style=for-the-badge&logo=ghidra&logoColor=e06c75" />
-  <img src="https://img.shields.io/badge/DFIR_&_Memory_Forensics-004085?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Penetration_Testing-8B0000?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Red_Teaming-2d3748?style=for-the-badge&logo=target&logoColor=red" />
+  <img src="https://img.shields.io/badge/Malware_Analysis-111111?style=for-the-badge&logo=ghidra&logoColor=white" />
+  <img src="https://img.shields.io/badge/DFIR_%26_Forensics-161b22?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Penetration_Testing-557C93?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Red_Teaming-1A202C?style=for-the-badge&logo=target&logoColor=red" />
   <img src="https://img.shields.io/badge/Cyber_Triage-0F2027?style=for-the-badge&logo=search&logoColor=cyan" />
 </p>
 
