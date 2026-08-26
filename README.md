@@ -1,10 +1,10 @@
-### 🛡️ Cybersecurity Specialist | 🔍 Digital Forensics & Incident Response (DFIR) | 👮‍♂️ Vice Ispettore Tecnico @ Polizia di Stato
+### 🛡️ Cybersecurity Specialist | 🔍 Digital Forensics & Incident Response (DFIR)
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a **Cybersecurity Specialist**, **Ethical Hacker**, and **DFIR**, specializing in cybercrime investigations, high-level threat intelligence, and digital forensics. 
+I am a **Cybersecurity Specialist**, **Ethical Hacker**, and **DFIR** at the **Polizia di Stato (Polizia Postale, C.O.S.C. Bologna)**, specializing in cybercrime investigations, high-level threat intelligence, and digital forensics. 
 
 - 🎓 **Education**: Bachelor's Degree in Computer Science (L-31) from **Università di Camerino** — **110/110 cum Laude**
   - *Thesis*: *"RAM Memory Acquisition and Forensic Analysis in Microsoft Windows Environments"*
@@ -85,14 +85,3 @@ I am a **Cybersecurity Specialist**, **Ethical Hacker**, and **DFIR**, specializ
 
 ---
 *“In God we trust. All others must bring data (and volatile memory dumps).”*
-"""
-
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(readme_md)
-
-print("README.md file generated successfully.")
-
-<!---
-Frascott05/Frascott05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
