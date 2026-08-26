@@ -35,14 +35,14 @@ I am a **Cybersecurity Specialist**, **Ethical Hacker**, and **DFIR** at the **P
 #### ⚙️ Operating Systems & Kernel Internals
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,raspberry-pi" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,raspberrypi" />
   </a>
 </p>
 
 #### 🖥️ Frameworks, Cloud & Infrastructure
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,aws,azure,postgres,mysql,react,fastapi,django,dotnet,wordpress" />
+    <img src="https://skillicons.dev/icons?i=docker,aws,azure,nginx,postgres,mysql,react,fastapi,django,flask,dotnet,wordpress,gradle" />
   </a>
 </p>
 <p align="left">
