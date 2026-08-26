@@ -17,47 +17,51 @@ I am a **Cybersecurity Specialist**, **Ethical Hacker**, and **DFIR** at the **P
 ### 🛠️ Tech Stack & Skills
 
 #### 🛡️ Offsec, DFIR & Core Security
-![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-Reverse_Engineering-critical?style=for-the-badge&logo=ghidra&logoColor=white)
-![DFIR](https://img.shields.io/badge/DFIR-Memory_%26_Mobile_Forensics-blue?style=for-the-badge&logo=wireshark&logoColor=white)
-![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-Ethical_Hacking-red?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Red Team Development](https://img.shields.io/badge/Red_Team-Custom_Malware_Dev-darkred?style=for-the-badge&logo=cplusplus&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-Cyber_Investigations-purple?style=for-the-badge&logo=eye&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Malware_Analysis-111111?style=for-the-badge&logo=ghidra&logoColor=e06c75" />
+  <img src="https://img.shields.io/badge/DFIR_&_Memory_Forensics-004085?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Penetration_Testing-8B0000?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Red_Teaming-2d3748?style=for-the-badge&logo=target&logoColor=red" />
+  <img src="https://img.shields.io/badge/Cyber_Triage-0F2027?style=for-the-badge&logo=search&logoColor=cyan" />
+</p>
 
 #### 💻 Programming & Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,php,haskell" />
+  </a>
+</p>
 
 #### ⚙️ Operating Systems & Kernel Internals
-![Windows Internals](https://img.shields.io/badge/Windows_Internals-Kernel_Architecture-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux Hardening](https://img.shields.io/badge/Linux-Advanced_Hardening-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-Offensive_OS-557C93?style=for-the-badge&logo=kalilinux&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
+  </a>
+  <img src="https://img.shields.io/badge/Windows_Internals-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white" />
+</p>
 
 #### 🖥️ Frameworks, Cloud & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Proxmox VE](https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212529?style=for-the-badge&logo=pfsense&logoColor=white)
-![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-Enterprise_Security-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,aws,azure,postgres,mysql,react,fastapi,django,dotnet" />
+  </a>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/pfSense-212529?style=for-the-badge&logo=pfsense&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
 
 #### 🤖 Artificial Intelligence & Automation
-![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![LM Studio](https://img.shields.io/badge/LM_Studio-AI_Inference-6B46C1?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-Workflow_Automation-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-
----
+<p align="left">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/LM_Studio-6B46C1?style=for-the-badge&logo=cpu&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=n8n" />
+  </a>
+</p>
 
 ### 🚀 Featured Projects & Open Source Contributions
 
