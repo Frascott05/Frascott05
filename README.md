@@ -28,7 +28,7 @@ I am a **Cybersecurity Specialist**, **Ethical Hacker**, and **DFIR** at the **P
 #### 💻 Programming & Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,php,haskell" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,php,haskell,git" />
   </a>
 </p>
 
